@@ -1,0 +1,130 @@
+{
+    "userProfile": {
+      "occupation": "Programmer",
+      "operatingSystem": "Linux",
+      "activities": [
+        "Downloading images and videos",
+        "Referencing Google and YouTube",
+        "Referencing Wolfram Alpha",
+        "Chatting with ChatGPT",
+        "Using Linux commands"
+      ]
+    },
+    "preferences": {
+      "preferredAssistant": "AI",
+      "preferredPlatforms": ["Google", "YouTube", "Wolfram Alpha", "ChatGPT"],
+      "preferredTools": ["Linux commands"]
+    },
+    "tasks": [
+      {
+        "category": "Youtube Audio",
+        "commands": [
+          "Youtube Audio",
+          "Audio from youtube",
+          "Save audio"
+        ]
+      },
+      {
+        "category": "Youtube Video",
+        "commands": [
+          "Youtube Video",
+          "Video from youtube",
+          "Save video"
+        ]
+      },
+      {
+        "category": "Wikipedia",
+        "commands": [
+          "Search on Wikipeadia",
+          "Query wiki",
+          "wiki this",
+          "fetch from wikipedia"
+        ]
+      },
+      {
+        "category": "Add Reminder",
+        "commands": [
+          "Remind me this",
+          "Add to my to do list"
+        ]
+      },
+      {
+        "category": "View Reminders",
+        "commands": [
+          "Do i have any reminders",
+          "What reminders do i have",
+          "Reminder list",
+          "list reminders"
+        ]
+      },
+
+      {
+        "category": "Delete Reminder",
+        "commands": [
+          "Delete a reminder",
+          "Remove a reminder"
+        ]
+      },
+
+      {
+        "category": "Increase Volume",
+        "commands": [
+          "Increase volume",
+          "more volume"
+        ]
+      },
+
+      {
+        "category": "Decrease Volume",
+        "commands": [
+          "Decrease volume",
+          "less volume"
+        ]
+      },
+      {
+        "category": "Increase Brightness",
+        "commands": [
+          "Increase brightness",
+          "more contrast"
+        ]
+      },
+      {
+        "category": "Decrease Brightness",
+        "commands": [
+          "Decrease brightness",
+          "less contrast"
+        ]
+      },
+      {
+        "category": "Screenshot",
+        "commands": [
+          "take a screenshot",
+          "save a screenshot"
+        ]
+      },
+      {
+        "category": "Ignore",
+        "commands": [
+          "None"
+        ]
+      },
+      {
+        "category": "Photo",
+        "commands": [
+          "take a photo",
+          "take a picture"
+        ]
+      },
+      {
+        "category": "Linux Commands",
+        "commands": [
+          "Execute Linux commands",
+          "Check system information",
+          "Monitor system resources",
+          "Manage user permissions",
+          "Configure network settings"
+        ]
+      }
+    ]
+  }
+  
